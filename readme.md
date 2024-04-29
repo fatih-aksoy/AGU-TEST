@@ -1,4 +1,4 @@
-agu-test.netlify.app
+You can see more clicking [here](https://agu-test.netlify.app/).
 
 aktivgeneration.org
 
